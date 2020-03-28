@@ -1,0 +1,5 @@
+.idea
+db.sqlite3
+cfeapi/__pycache__
+updates/__pycache__
+updates/migrations
